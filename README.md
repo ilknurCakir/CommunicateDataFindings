@@ -46,9 +46,15 @@ Prosper Score, risk score, credit score interchangeably.
 The files in the folder are;
 
 exploratory.ipynb - includes exploratory data analysis 
+
 exploratory.html - html page of EDA
+
 explanatory.ipynb - includes explanatory data analysis
+
 clean_data.csv - csv file including cleaned data
+
+output-toggle.tpl - file to make it possible to hide code cells and only 
+display visualizations in the output cells when creating a slide deck
 
 
 ### Results
