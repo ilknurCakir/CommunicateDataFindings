@@ -1,4 +1,4 @@
-# CommuniteDataFindings
+# Communicate Data Findings 
 
 #### Table of Contents
 
